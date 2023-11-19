@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indrex", "Indrex\Indrex.csproj", "{25971607-AE69-4C84-B039-D3446BC734C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSuite", "TestSuite\TestSuite.csproj", "{B177DEDA-985F-4B56-AFCE-61F15448BC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25971607-AE69-4C84-B039-D3446BC734C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25971607-AE69-4C84-B039-D3446BC734C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25971607-AE69-4C84-B039-D3446BC734C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25971607-AE69-4C84-B039-D3446BC734C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B177DEDA-985F-4B56-AFCE-61F15448BC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B177DEDA-985F-4B56-AFCE-61F15448BC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B177DEDA-985F-4B56-AFCE-61F15448BC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B177DEDA-985F-4B56-AFCE-61F15448BC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB39D60-1B1A-40A9-BE80-98C8B204DBC2}
+	EndGlobalSection
+EndGlobal
